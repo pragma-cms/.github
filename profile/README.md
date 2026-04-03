@@ -12,4 +12,4 @@ visual comfort of a Page Builder, all powered by a pragmatic PHP monolith.
 - **Hybrid Engine:** Use Twig or plain PHP for server-side rendering or our REST API for your mobile apps.
 - **Modern Stack:** Built for PHP 8.4+, MariaDB, and Caddy Server.
 
-[Get Started] | [Documentation] | [Marketplace]
+[Get Started](https://pragma-cms.com/pricing) | [Documentation](https://pragma-cms.com/docs) | [Marketplace](https://pragma-cms.com/marketplace)
