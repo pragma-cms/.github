@@ -4,7 +4,7 @@
 
 Pragma CMS is a modern, lightweight, and developer-first content management system. 
 It bridges the gap between the flexibility of Headless architecture and the 
-visual comfort of a Page Builder, all powered by a clean PHP 8.4 monolith.
+visual comfort of a Page Builder, all powered by a clean PHP monolith.
 
 ### ✨ Why Pragma?
 - **Zero Bloat:** No unnecessary abstractions. If you know PHP, you already know Pragma.
